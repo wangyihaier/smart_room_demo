@@ -1,0 +1,3 @@
+if [ -f "/usr/bin/Weavedssh22.sh" ]; then
+   /usr/bin/Weavedssh22.sh start
+fi

@@ -1,0 +1,1 @@
+"sudo /usr/bin/Weavedhttp5000.sh start|stop|restart" 

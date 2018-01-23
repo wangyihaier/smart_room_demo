@@ -1,0 +1,3 @@
+Checking if DNS works ... .[OK]
+Checking TCP connectivity to weaved.com...<oip=10.104.69.40> [OK]
+Send to 174.36.235.146:5960 [] [mip=167.220.255.133] [oport=59612 mport=59612] [no remap] [preserve port] [OK]
